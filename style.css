@@ -1,0 +1,46 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color:#1c16cc;
+
+font-style: unset;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid black;
+}
+
+
+
+
+
+body{
+    
+    background:linear-gradient(#d62118, #d65718, #d6c918, #17a61a, #16ccbd, #1c16cc, #a516cc) ;
+}
+
+
+#baby{
+    font-size: 23px;
+width: 30%;
+margin: 0px;
+color:#1c16cc;
+
+font-style: unset;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid black;
+}
+
+#object_detected{
+    font-size: 23px;
+width: 30%;
+margin: 0px;
+color:#1c16cc;
+
+font-style: unset;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid black;
+}
